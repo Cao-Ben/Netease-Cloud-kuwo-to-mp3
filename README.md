@@ -6,3 +6,4 @@ usage: Command [sourceFilePath] [destFilePath]
 
 
 批量：bat同级目录下创建目录Files，放原文件；执行bat，生成Dest文件生成解密的文件。
+  网易云直接拖到main.exe就行
